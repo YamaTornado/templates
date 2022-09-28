@@ -1,0 +1,111 @@
+body{
+
+    background-color: rgb(15, 15, 15);
+    color: rgb(255, 255, 255);
+    font-family: arial;
+    
+}
+
+h1 {
+
+    font-size: 60px;
+    margin-left: 20%;
+    margin-right: 20%;
+
+  }
+
+
+
+  h2 {
+
+    font-weight: 200;
+    color: rgb(160, 157, 157);
+    margin-left: 20%;
+    margin-right: 20%;
+
+  }
+
+
+hr{
+    margin-left: 20%;
+    margin-right: 20%;  
+
+} 
+
+p{
+
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 25px;
+
+}
+
+
+
+
+sub{
+
+    color: rgb(160, 157, 157);
+    font-size:  100%;
+    font-family: arial;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+
+h3{
+    
+    font-family: Tahoma;
+    word-spacing: 3px;
+    font-size:  150%;
+    font-weight: 200;
+    line-height: 200%;
+    margin-left: 20%;
+    margin-right: 20%; 
+
+}
+
+h4{
+
+  margin-left: 20%;
+  margin-right: 20%; 
+  color: rgb(235, 72, 72);
+
+}
+
+code{
+
+  color: rgb(160, 157, 157);
+}
+
+
+
+font{
+
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+
+  /* normal browser */
+  ::selection {
+    color: #000000;
+    background-color: rgb(92, 92, 92);
+  }
+  
+  /* for firefox */
+  ::moz-selection {
+    color: #000000;
+    background-color: rgb(92, 92, 92);
+  }
+
+
+  #nav {
+     
+    position: fixed; 
+    top: 0; 
+    width: 100%; 
+    transition: top 0.3s; 
+
+  }
+  
