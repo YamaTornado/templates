@@ -9,5 +9,5 @@ Made by Yama with <3
 
 <h3>Simp4.dev</h3>
 
-![Simp4.dev theme](images/starlink.png)
+![Simp4.dev theme](images/simp4dev.png)
  
