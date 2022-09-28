@@ -7,4 +7,6 @@ Made by Yama with <3
 ![Starlink theme](.templates/images/starlink.png)
 
 <h3>Simp4.dev</h3>
+
 ![Simp4.dev theme](templates/images/simp4dev.png)
+ 
