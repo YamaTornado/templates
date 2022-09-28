@@ -4,4 +4,4 @@ Website templates free to use.
 Made by Yama with <3
 
 <h3>Starlink theme</h3>
-<img src="https://imgur.com/zXKrB3Z" alt="" title="Optional title">
+<img src="https://imgur.com/zXKrB3Z">
